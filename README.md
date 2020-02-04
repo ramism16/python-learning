@@ -1,6 +1,7 @@
 # python-learning-basics
 
 _Check the Wiki for detailed repository guide_
+https://github.com/ramism16/python-learning-basics/wiki
 
 This repository contains all the python files I created as I introduced myself to the world of Computer Science and programming using Python. These include the tasks I gave myself for self-understanding and some that I received from friends and instructors. 
 

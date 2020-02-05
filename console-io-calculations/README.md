@@ -1,5 +1,5 @@
 # python-learning-basics
-##Basic console Input/Output and Calculations
+Basic console Input/Output and Calculations
 
 _Check the Wiki for detailed repository and folder guide_
 https://github.com/ramism16/python-learning-basics/wiki/Basic-console-Input-Output-and-calculations

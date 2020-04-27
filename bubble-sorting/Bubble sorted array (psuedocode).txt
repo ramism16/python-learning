@@ -1,0 +1,16 @@
+BEGIN
+DECLARE N[1:n] AS ARRAY
+WHILE funcstop>=0
+    INPUT funcstop
+    IF funcstop>=0 
+	THEN
+        APPEND N <-- funcstop
+    ENDIF
+ENDWHILE
+DECLARE Reversed[1:n] AS ARRAY
+for i <-- -1 to (-1-len(N)) STEP -1 (incorrect)
+    APPEND Reversed <-- N[i]
+ENDLOOP
+OUTPUT Reversed
+OUTPUT "List is reversed"
+END
